@@ -1,21 +1,21 @@
 {
   "config": {
     "announcementBar": {
-      "validationApp": "🚀 Download our validation app to take Tauri for a test drive: <br/> <i class=\"ti-linux\"></i> <a href=\"https://github.com/tauri-apps/tauri/releases/download/0.5.2-binaries/app_0.1.0_amd64.deb\" target=\"_blank\">Linux - deb</a> - <i class=\"ti-apple\"></i> <a href=\"https://github.com/tauri-apps/tauri/releases/download/0.5.2-binaries/app.dmg\" target=\"_blank\">macOS - dmg</a> - <i class=\"ti-microsoft\"></i> <a href=\"https://github.com/tauri-apps/tauri/releases/download/0.5.2-binaries/app.x64.msi\" target=\"_blank\">Windows - msi</a> - <i class=\"ti-github\"></i> <a href=\"https://github.com/tauri-apps/tauri/tree/dev/tauri/examples/communication\" target=\"_blank\">Source</a>"
+      "validationApp": "🚀 58/5000 Téléchargez notre application de validation pour faire une suite de tests avec Tauri: <br/> <i class=\"ti-linux\"></i> <a href=\"https://github.com/tauri-apps/tauri/releases/download/0.5.2-binaries/app_0.1.0_amd64.deb\" target=\"_blank\">Linux - deb</a> - <i class=\"ti-apple\"></i> <a href=\"https://github.com/tauri-apps/tauri/releases/download/0.5.2-binaries/app.dmg\" target=\"_blank\">macOS - dmg</a> - <i class=\"ti-microsoft\"></i> <a href=\"https://github.com/tauri-apps/tauri/releases/download/0.5.2-binaries/app.x64.msi\" target=\"_blank\">Windows - msi</a> - <i class=\"ti-github\"></i> <a href=\"https://github.com/tauri-apps/tauri/tree/dev/tauri/examples/communication\" target=\"_blank\">Source</a>"
     },
-    "tagline": "Build smaller, faster, and more secure desktop applications with a web frontend"
+    "tagline": "Créez des applications de bureau plus petites, plus rapides et plus sécurisées avec une interface Web"
   },
   "pages": {
     "index": {
-      "description": "Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface.",
+      "description": "Tauri est un framework pour créer des executables minuscules et ultra-rapides pour toutes les principales plates-formes de bureau. Les développeurs peuvent intégrer n'importe quel framework frontend qui se compile en HTML, JS et CSS pour créer leur interface utilisateur.",
       "subtitle": "Créez des applications desktop plus petites, rapides et plus sécurisées<br />avec une interface web",
-      "learnMore": "Learn more",
-      "getStarted": "Get started",
+      "learnMore": "En savoir plus",
+      "getStarted": "Commencer",
       "feature": {
-        "seeMore": "See more",
+        "seeMore": "Voir plus",
         "items": [
           {
-            "label": "Brownfield",
+            "label": "Friche industrielle",
             "description": "compatibility with any front-end framework means you don't have to change your stack"
           },
           {
@@ -23,30 +23,30 @@
             "description": "relicensing is possible with Tauri"
           },
           {
-            "label": "Bundle",
-            "description": "size of a Tauri App can be less than 600KB"
+            "label": "Paquet",
+            "description": "la taille d'une application Tauri peut être inférieure à 600KB"
           },
           {
-            "label": "Security",
-            "description": "is the Tauri-Team's biggest priority and drives our innovation"
+            "label": "Sécurité",
+            "description": "est la plus grande priorité de Tauri-Team et est le moteur de notre innovation"
           },
           {
-            "label": "Patterns",
-            "description": "are here to help you choose important features with simple configuration"
+            "label": "Modèle",
+            "description": "sont là pour vous aider à choisir les fonctionnalités importantes avec une simple configuration "
           },
           {
-            "label": "Cross-platform",
-            "description": "compilation allows to bundle binaries for major desktop platforms (mobile & WASM coming soon)"
+            "label": "Multi-platforme",
+            "description": "compilation permet de regrouper des executables pour les principales plates-formes de bureau (mobile et WASM bientôt disponibles) "
           }
         ]
       },
       "roadmap": {
-        "title": "Roadmap",
-        "notice": "Notice: This roadmap is subject to change.",
-        "beyond": "& BEYOND",
-        "todo": "To Do",
-        "milestone": "Milestone",
-        "ready": "Ready",
+        "title": "Objectifs",
+        "notice": "Notice: Ces objectifs peuvent changer a tout moment.",
+        "beyond": "& AU-DELÀ",
+        "todo": "À FAIRE",
+        "milestone": "Étape importante",
+        "ready": "Prêt",
         "items": [
           {
             "label": "CLI",
