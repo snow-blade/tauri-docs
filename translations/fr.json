@@ -16,11 +16,11 @@
         "items": [
           {
             "label": "Friche industrielle",
-            "description": "compatibility with any front-end framework means you don't have to change your stack"
+            "description": "la compatibilité avec n'importe quel framework front-end signifie que vous n'avez pas à changer votre stack"
           },
           {
             "label": "FLOSS",
-            "description": "relicensing is possible with Tauri"
+            "description": "une nouvelle licence est possible avec Tauri"
           },
           {
             "label": "Paquet",
@@ -49,20 +49,20 @@
         "ready": "Prêt",
         "items": [
           {
-            "label": "CLI",
-            "description": "Generate, develop and build Tauri apps from the command line."
+            "label": "CLI", 
+            "description": "Générez, développez et construisez des applications Tauri à partir de la ligne de commande."
           },
           {
             "label": "API",
-            "description": "Finalize, audit, write documentation and create examples for the smoke-tests."
+            "description": "Finaliser, auditer, rédiger la documentation et créer des exemples pour les smoke-tests."
           },
           {
             "label": "Testing & CI",
-            "description": "Implement CI with testing and bundle-pipeline validation."
+            "description": "Implémentez CI avec test et validation en bundle-pipeline."
           },
           {
             "label": "Desktop Bundler",
-            "description": "Bundle for all major desktops from native systems."
+            "description": "Bundle pour tous les principaux postes de travail des systèmes natifs."
           },
           {
             "label": "Alpha Release",
